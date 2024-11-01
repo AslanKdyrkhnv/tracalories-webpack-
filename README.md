@@ -29,4 +29,4 @@ Sass: CSS pre-processor for styling.
 Bootstrap and Font Awesome: For UI styling and icons.
 
 
-Link to this hosted project: 
+Link to this hosted project: https://tracalorieswebsapp.netlify.app/
