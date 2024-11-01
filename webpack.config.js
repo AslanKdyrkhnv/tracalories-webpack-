@@ -64,7 +64,8 @@ module.exports = {
         new htmlWebpackPlugin({
             title: "Tracalories App", 
             template: path.resolve(__dirname, './src/template.html'), 
-            filename: 'index.html'
+            filename: 'index.html',
+            favicon: path.resolve(__dirname, './src/icon/favicon.ico'),
             
         }),
         new CleanWebpackPlugin(),
